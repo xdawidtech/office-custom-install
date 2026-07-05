@@ -42,7 +42,7 @@ Aby całkowicie odinstalować pozostałości po innych wersjach Office, użyj [o
 
 ## 3. Plik konfiguracyjny `configuration.xml`
 
-W folderze, w którym rozpakowano ODT utwórz plik o nazwie **`configuration.xml`** z poniższą zawartością (lub pobierz mój plik z GitHuba):
+W folderze, w którym rozpakowano ODT utwórz plik o nazwie **`configuration.xml`** z poniższą zawartością (lub pobierz [mój plik](https://github.com/xdawidtech/office-custom-install/blob/main/configuration.xml)):
 
 ```xml
 <Configuration>
