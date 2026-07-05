@@ -198,7 +198,7 @@ Jeśli mój poradnik okazał się być przydatny, rozważ:
 
 - zostawienie **⭐ gwiazdki** na GitHubie - aby przekazać podziękowania i pomóc innym trafić na ten poradnik
 - zgłoszenie **🐛 issue**, jeśli znajdziesz błąd lub potrzebujesz pomocy
-- udostępnienie **🔗 linku** znajomym, którzy borykają się z tym samym problemem.
+- udostępnienie **🔗 linku** znajomym, którzy borykają się z tym samym problemem
 
 ---
 
